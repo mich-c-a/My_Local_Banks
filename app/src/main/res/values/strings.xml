@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="dbs">DBS</string>
+    <string name="ocbc">OCBC</string>
+    <string name="uob">UOB</string>
+    <string name="webSelect">Website</string>
+    <string name="contSelect">Contact the bank</string>
+    <string name="dbsContact">18001111111</string>
+    <string name="ocbcContact">18003633333</string>
+    <string name="uobContact">18002222121</string>
+    <string name="engSelect">English</string>
+    <string name="chiSelect">Chinese</string>
+</resources>
